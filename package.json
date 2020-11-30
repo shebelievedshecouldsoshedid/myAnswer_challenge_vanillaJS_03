@@ -1,0 +1,14 @@
+{
+  "name": "myanswer_challenge_vanillajs_03",
+  "version": "1.0.0",
+  "description": "When something happends on the browser, I can change the status of the texts using addEventListeniner and DOM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
